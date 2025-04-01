@@ -1,2 +1,2 @@
 # ngx-elegant-toast
-ngx-elegant-toast
+Elegant, customizable toast notifications for Angular applications
